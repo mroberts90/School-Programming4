@@ -2,17 +2,6 @@
 The fourth programming project for my class
 
 package Chapter6PPMatthewRoberts;
-/* Matthew Roberts
- * 11/08/2019
- * Project 6
- * Extra Credit:
- * Project Description:  
- * 1) Get user's full name with one statement.
- * 2) Based on the number of characters, ask the user to to enter that many numbers and add the total.
- * 3) Display the appropriately versed and formatted.
- 
-
- */
 
 import java.util.Scanner;
 
